@@ -16,3 +16,8 @@ REQUIRMENTS -
 3.Pillow (python)
 4.Tkinter(python)
 
+
+![Screenshot_110](https://user-images.githubusercontent.com/77952783/191290306-0bb759b3-0cdd-4e7b-9e55-b49ae0414e48.png)
+![Screenshot_113](https://user-images.githubusercontent.com/77952783/191290335-be63c0e1-e791-4731-bd01-92b63dec0615.png)
+![Screenshot_115](https://user-images.githubusercontent.com/77952783/191290342-ed7f69f4-5b7a-4c36-b614-7f7dafd5a63a.png)
+![Screenshot_117](https://user-images.githubusercontent.com/77952783/191290349-00ce2688-1346-4444-b343-47b909f770ce.png)
