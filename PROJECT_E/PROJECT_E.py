@@ -9,7 +9,7 @@ import mysql.connector as my
 db = my.connect(
     host = "localhost",
     user = "root",
-    passwd = "Thunderbolt224",
+    passwd = "12345678",
     database = "arcedia"
     )
 
