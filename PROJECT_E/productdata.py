@@ -4,7 +4,7 @@ import random as r
 mydb = mysql.connector.connect(
   host="localhost",
   user="root",
-  password="Thunderbolt224",
+  password="12345678",
   database="arcedia"
 )
 
